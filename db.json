@@ -1,5 +1,4 @@
-
-    { 
+   [{ 
         "id": 1, 
         "title" : "The Alchemist" , 
         "image": "https://images-na.ssl-images-amazon.com/images/I/516RP--HuhL.jpg" , 
@@ -16,4 +15,4 @@
         "title": "Extreme OwnerShip", 
         "image": "https://images-na.ssl-images-amazon.com/images/I/41HrnewybgL.jpg", 
         "author": "Jocko Willink"
-    }
+    }]
