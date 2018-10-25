@@ -1,19 +1,6 @@
-{
-  "books":[
+[
+  "books":
     { "id": 1, "title" : "The Alchemist" , "image": "https://images-na.ssl-images-amazon.com/images/I/516RP--HuhL.jpg" , "author": "Paulo Coelho"},
     { "id": 2, "title": "TechLife news" , "image": "https://images-na.ssl-images-amazon.com/images/I/41HrnewybgL.jpg", "author": "Doris Kearns Godwin"},
     { "id": 3, "title": "Extreme OwnerShip", "image": "https://images-na.ssl-images-amazon.com/images/I/41HrnewybgL.jpg", "author": "Jocko Willink"}
-    ],
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+]
